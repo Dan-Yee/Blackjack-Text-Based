@@ -1,2 +1,3 @@
-# Blackjack-Text-Based
-Text based Blackjack Game
+# Blackjack
+
+Text-based game of Blackjack using Java
