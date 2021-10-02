@@ -1,2 +1,2 @@
 # Blackjack
-Text-based game of Blackjack using Java with basic Hit and Stand functions
+Text-based game of Blackjack using Java with standard Hit and Stand functions
